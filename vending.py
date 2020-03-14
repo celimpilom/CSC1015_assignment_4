@@ -5,7 +5,8 @@ while cost>deposite:
     deposite+=d
 change=deposite-cost
 print("Your change is:\n")
-if not change==50 and change==20 and change==5 and change==2 and change==1:
+if change>50:
+    x
     
     
 else:
